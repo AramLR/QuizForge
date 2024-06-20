@@ -1,0 +1,15 @@
+{
+  "name": "quizforge",
+  "version": "1.0.0",
+  "description": "Create mock tests from Anki",
+  "main": "index.js",
+  "scripts": {
+    "test": "node dist/index.js",
+    "build": "tsc"
+  },
+  "author": "AramLR",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  }
+}
